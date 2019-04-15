@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jlong\\Documents\\TxtAdventuresGames\\TextAdventure-Jeremy\\FreeAntibiotics1\\FreeAntibiotics1\\FreeAntibiotics1.csproj",
-      "projectName": "FreeAntibiotics1",
-      "projectPath": "C:\\Users\\jlong\\Documents\\TxtAdventuresGames\\TextAdventure-Jeremy\\FreeAntibiotics1\\FreeAntibiotics1\\FreeAntibiotics1.csproj",
+      "projectUniqueName": "C:\\Users\\jlong\\Documents\\TxtAdventuresGames\\TextAdventure-Jeremy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\jlong\\Documents\\TxtAdventuresGames\\TextAdventure-Jeremy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\jlong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jlong\\Documents\\TxtAdventuresGames\\TextAdventure-Jeremy\\FreeAntibiotics1\\FreeAntibiotics1\\obj\\",
+      "outputPath": "C:\\Users\\jlong\\Documents\\TxtAdventuresGames\\TextAdventure-Jeremy\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
